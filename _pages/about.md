@@ -11,4 +11,4 @@ redirect_from:
 Welcome.
 
 I am a PhD candidate at the University of Zurich's Economics department.
-My work as an Applied Microeconomist focuses on topics regarding labor markets, education and gender.
+My work as an applied microeconomist focuses on topics regarding labor markets, education and gender.
