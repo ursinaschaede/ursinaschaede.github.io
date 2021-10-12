@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome.
+<br/><br/>
 
-I am a PhD candidate at the University of Zurich's Economics department.
-My work as an applied microeconomist focuses on topics regarding labor markets, education and gender.
+Welcome!
+
+I am a PhD candidate at the Economics department at the University of Zurich. I am on the 2021/222 Economics job market.
+
+
+My work as an applied microeconomist focuses on topics regarding labor markets, education and gender. In my job market paper,
+I analyze the long term impacts of a gender quota for male primary school teachers in Finland on their pupils' long run outcomes.
