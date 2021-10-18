@@ -10,7 +10,7 @@ author_profile: true
 <br />
 
 
-### Quota vs. Quality?  <br/>Long Term Impacts of a Gender Quota in Finland (JMP)
+### Quota vs. Quality?  <br/>Long Term Impacts of a Gender Quota (JMP)
 
 *joint with Ville Mankki*
 
@@ -19,14 +19,14 @@ Does increased representation of a minority group via a quota affect productivit
 <br />
 <br />
 
-### The long run impact of funding for public education: <br/>Evidence from land grants in Illinois
+### The Long Run Impact of Funding for Public Education: <br/>Evidence from Land Grants in Illinois
 <br />
 Public education is attributed a key role in the development of modern economies. In this paper, I trace out both the immediate and long run effects of investment in human capital through funding for local public schools. I leverage a natural experiment in Illinois that endowed survey townships at the beginning of settlement with a fixed plot of land to finance expenditures for local schools. By exploiting the granular spatial distribution of undesirable land features, I isolate exogenous variation in township schooling endowments while keeping overall township resource endowments fixed. I first document that the spatial distribution of undesirable land features has a negative impact on both township schooling expenditures and endowments by 1858. Linking residents from full count Census data from 1860 – 1940 to their townships of residence and across Census years, I find that townships with higher schooling expenditures in 1858 quickly and persistently move ahead: they experience higher population growth and the occupation transformation away from a mostly agriculturally oriented local economy proceeds more quickly. I show that these effects are driven by school rich townships being able to attract more settlers moving to Illinois from within the US, and by avoiding brain drain from younger generations.
 <br />
 <br />
 <br />
 
-### Thinking about the furture: Childbirth, Misperceptions and Maternal Labor Force Participation
+### Thinking about the future: Childbirth, Misperceptions and Maternal Labor Force Participation
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
 
