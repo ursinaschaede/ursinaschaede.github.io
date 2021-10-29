@@ -22,4 +22,4 @@ I analyze the long term impacts of a gender quota for male primary school teache
 **I am on the 2021/22 Economics job market.**
 <br/>
 
-**E-mail:** <ursina.schaede@uzh.ch>
+**E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina.schaede@econ.uzh.ch</span>](ursina.schaede@econ.uzh.ch)

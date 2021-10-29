@@ -3,12 +3,12 @@ title: "Research"
 layout: archive
 permalink: /research/
 author_profile: true
-
 ---
 
 <br />
 <br />
-###  [Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
+<!-- ###  [Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
+### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
 *joint with Ville Mankki*
 
 We investigate the potential equity-efficiency trade-offs from gender quotas by studying the effect of abolishing a 40% quota for male primary school teachers on pupils’ long run outcomes in Finland. The quota had advantaged academically lower-scoring male applicants in university admissions, and its removal cut the share of men among new teachers by half. We show that combining this reform with the timing of union-mandated teacher retirements creates quasi-random variation in the local share of male teachers. We then document how quota-induced changes in local teacher gender composition affect pupils’ outcomes in the long run. Using comprehensive register data up to early adulthood, we find that pupils exposed to a higher share of male quota teachers during primary school have higher educational and labor force attainment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Our findings are consistent with male quota teachers contributing with valuable qualities to school environments that are not sufficiently captured by the teacher selection process in absence of the quota.
@@ -37,4 +37,7 @@ After having their first child, most Swiss women reduce their workload substanti
 *joint with Andreas Beerli and Andrea Hofer*
 
 
-<!-- ### [<span style="color:gray"> Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
+<!-- ### [<span style="color:#16A085; text-decoration: underline"> Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
+
+<!-- [normal link](https://www.google.com/)
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a> -->
