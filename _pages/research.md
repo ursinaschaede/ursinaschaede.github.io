@@ -16,7 +16,7 @@ We investigate the potential equity-efficiency trade-offs from representation qu
 <br />
 <br />
 
-### The Long Run Effects of Funding for Public Education: Evidence from Land Grants in Illinois
+### The Long Run Effects of Funding for Public Education: Evidence from Land Grants
 <br />
 Public education is attributed a key role in the development of modern economies. In this paper, I trace out both the immediate and long run effects of investment in human capital through funding for local public schools. I leverage a natural experiment in Illinois that endowed survey townships at the beginning of settlement with a fixed plot of land (Section 16) to finance expenditures for local schools. By exploiting the granular spatial distribution of a particularly undesirable land feature, frequent flooding, I isolate exogenous variation in township schooling endowments while keeping overall township resource endowments fixed. I first document that conditional on overall flooding propensity in a township, relatively more flooding on Section 16 has a negative impact on both township schooling expenditures and school endowments by 1858. Linking residents from full count Census data from 1860 – 1940 to their townships of residence and across Census years, I find that "school-poor" townships quickly and persistently fall behind: They experience lower population growth and the occupation transformation away from a mostly agriculturally oriented local economy proceeds more slowly. I show that these effects are partly driven by school poor townships being unable to attract settlers moving to Illinois from within the United States, and by suffering brain drain from younger generations.
 <br />
