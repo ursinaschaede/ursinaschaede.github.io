@@ -23,7 +23,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 
-### Do mothers misperceive financial consequences of reduced labor supply? Evidence from a field experiment
+### Thinking about the future: Do mothers misperceive financial consequences of reduced labor supply?
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
 
