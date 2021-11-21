@@ -23,3 +23,8 @@ I analyze the long term impacts of a gender quota for male primary school teache
 <br/>
 
 **E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina.schaede@econ.uzh.ch</span>](ursina.schaede@econ.uzh.ch)
+<br/>
+<br/>
+<br/>
+
+<!-- I am part of a great cohort of job market candidates at the University of Zurich, and you can find more about my colleagues' research [<span style="color:#8AA761; text-decoration: underline">here</span>](https://www.econ.uzh.ch/en/study/phd/zurichgse/jobmarketcandidates.html). -->

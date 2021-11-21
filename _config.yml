@@ -68,7 +68,7 @@ yandex_site_verification :
 # social:
 #   type                   : # Person or Organization (defaults to Person)
 #   name                   : # If the user or organization name differs from the site's name
-#   links: # An array of links to social media profiles
+# links: # An array of links to social media profiles
 
 
 # Analytics
@@ -86,7 +86,7 @@ author:
   avatar           : "profile_3_crop.jpg"
   bio              : "PhD Candidate in Economics<br>University of Zurich"
   email            : "ursina.schaede@econ.uzh.ch"
-  twitter            : "urs_schaede"
+  twitter          : "urs_schaede"
 
 
 # Reading Files
