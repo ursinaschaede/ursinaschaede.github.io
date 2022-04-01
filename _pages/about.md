@@ -19,7 +19,7 @@ As an applied microeconomist, I study labor markets with a focus on education an
 I analyze the long term impacts of a gender quota for male primary school teachers in Finland on their pupils' long run outcomes.
 
 
-**I am on the 2021/22 Economics job market.**
+I will be a Swiss National Science Foundation PostDoc for 2022/23 and subsequently join the department of Economics at Tufts University.
 <br/>
 
 **E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina.schaede@econ.uzh.ch</span>](ursina.schaede@econ.uzh.ch)
