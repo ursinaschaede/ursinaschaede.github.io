@@ -22,7 +22,7 @@ I analyze the long term impacts of a gender quota for male primary school teache
 
 <br/>
 
-**E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina.schaede@econ.uzh.ch</span>](ursina.schaede@econ.uzh.ch)
+**E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina.schaede@gmail.com</span>](ursina.schaede@econ.uzh.ch)
 <br/>
 <br/>
 <br/>
