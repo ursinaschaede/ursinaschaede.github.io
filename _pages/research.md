@@ -8,10 +8,13 @@ author_profile: true
 <br />
 <br />
 <!-- ###  [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota (Job Market Paper)](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
-### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota (Job Market Paper)</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
-*joint with Ville Mankki*
+### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
+*joint with Ville Mankki (CESifo Working Paper No. 9811)*
 
 We evaluate equity-efficiency trade-offs from admission quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers in Finland on their pupils’ long run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school have higher educational and labor force attainment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Our findings are consistent with the quota improving the allocation of talent over the unconstrained selection process.
+<br />
+<br />
+*Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist </span>](https://www.economist.com/graphic-detail/2022/06/30/young-children-may-benefit-from-having-more-male-teachers)
 <br />
 <br />
 <br />
@@ -24,7 +27,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 
-### Thinking about the future: Do mothers misperceive financial consequences of reduced labor supply?
+### Thinking about the Future: Do Mothers Misperceive Financial Consequences of Reduced Labor Supply?
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
 
