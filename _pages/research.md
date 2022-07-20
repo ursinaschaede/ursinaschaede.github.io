@@ -14,7 +14,7 @@ author_profile: true
 We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers in Finland on their pupils’ long-run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school transition more smoothly to post-compulsory education, have higher educational attainment, and labor force attachment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Our findings are consistent with the quota improving the allocation of talent over the unconstrained selection process.
 <br />
 <br />
-*Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist </span>](https://www.economist.com/graphic-detail/2022/06/30/young-children-may-benefit-from-having-more-male-teachers)
+*Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist </span>](https://ursinaschaede.github.io/files/economist_coverage.pdf)
 <br />
 <br />
 <br />
