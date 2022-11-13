@@ -146,18 +146,18 @@ kramdown:
 
 
 # Collections
-<!-- collections:
+collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true -->
+      share: true
       
 # Sass/SCSS
 sass:
