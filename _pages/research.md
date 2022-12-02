@@ -27,10 +27,10 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 
-### (Not) thinking about the Future: Inattention and Female Labor Force Participation
+### (Not) thinking about the Future: Inattention and Female Labor Force Participation 
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
-
+(Data collection in progress. AEA RCT Registry 0010399)
 <br />
 <br />
 <br />
