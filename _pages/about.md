@@ -13,7 +13,7 @@ redirect_from:
 ## Welcome!
 
 <br/>
-I am a postdoctoral fellow at MIT for 2022/23 and will subsequently join the Department of Economics at Tufts University as an Assistant Professor.
+I am a Postdoctoral Fellow at the Department of Economics at MIT for 2022/23 and will subsequently join the Department of Economics at Tufts University as an Assistant Professor.
 
 As an applied microeconomist, I study labor markets with a focus on education and gender. 
 
