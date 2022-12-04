@@ -15,6 +15,7 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 *Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist </span>](https://ursinaschaede.github.io/files/economist_coverage.pdf)
+[<span style="color:#8AA761; text-decoration: underline"> Distinguished CESifo Affiliate Award </span>](https://www.cesifo.org/en/research-network-area/labor-economics), Labor Economics
 <br />
 <br />
 <br />
