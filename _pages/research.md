@@ -36,6 +36,8 @@ Public education is attributed a key role in the development of modern economies
 <br />
 Large and persistent earnings gaps open up between men and women after childbirth. While studies have documented that these gaps arise from drastically reduced labor supply of mothers, it is less well understood which factors women consider when making these decisions, and whether they are aware of the resulting financial implications. In this study, we randomly provide working mothers in Switzerland with information on the long-term financial consequences of a reduced workload. We highlight the impacts on lifetime earnings, pension savings, and financial well-being after potential adverse events. We find that women who receive the information treatment adjust their financial behavior and increase their workload aspirations. We confirm the persistence of effects in a follow-up survey two months after the intervention. We will merge survey data to administrative data in Fall 2023 to measure actual labor supply choices.
 <br />
+<br />
+<br />
 
 ### Mothers' Labor Supply and Immigration: Evidence from the Swiss Border Opening
 
