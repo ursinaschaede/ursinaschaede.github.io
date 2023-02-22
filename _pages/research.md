@@ -29,7 +29,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 
-### (Not) thinking about the Future: Raising mothers' Awareness of the Long-Term Costs of Reduced Labor Supply
+### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
 (Baseline completed. AEA RCT Registry 0010399)
