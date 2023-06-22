@@ -21,7 +21,7 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 
-### Availability of Part-Time Jobs and Mothers' Labor Supply
+### Mothers' Labor Force Participation and the Availability of Part-Time Jobs 
 
 *joint with Andrea Hofer and Andreas Beerli*
 (Draft coming soon)
