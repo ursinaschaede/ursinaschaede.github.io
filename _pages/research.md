@@ -21,6 +21,30 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 
+### The Impact of Flexible Hours Jobs on Mothers' Labor Supply
+
+*joint with Andrea Hofer and Andreas Beerli*
+(Draft coming soon)
+<br />
+<br />
+How does the structure of jobs in the labor market shape mothers’ labor supply? In this paper, we show that mothers’ labor force participation declines following a labor market shock that reduces the availability of part-time jobs, while fathers and women without children remain unaffected. We leverage an immigration reform that sharply increased the supply of high-skilled, full-time workers in a pre-defined set of border localities in Switzerland. Using a difference-in-difference strategy, we document that the reform leads to a change in the structure of the labor market with fewer part-time jobs, resulting in a drop in mothers’ labor force participation by 4 percentage points. This pattern translates into an increase in the ``child penalty’’ that persists up to ten years after the birth of the first child. We provide evidence that mothers’ drop-out is primarily driven by firms reducing their demand for part-time workers, thus highlighting a competition channel that manifests itself through the number of hours that workers are willing to supply. We rule out alternative mechanisms such as household income effects, fertility, and gender norms. 
+<br />
+<br />
+<br />
+
+
+### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
+
+*joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
+(Baseline and Follow Up I completed. AEA RCT Registry 0010399)
+<br />
+<br />
+Large and persistent earnings gaps open up between men and women after childbirth. While studies have documented that these gaps arise from drastically reduced labor supply of mothers, it is less well understood which factors women consider when making these decisions, and whether they are aware of the resulting financial implications. In this study, we randomly provide working mothers in Switzerland with information on the long-term financial consequences of a reduced workload. We highlight the impacts on lifetime earnings, pension savings, and financial well-being after potential adverse events. We find that women who receive the information treatment adjust their financial behavior and increase their workload aspirations. We confirm the persistence of effects in a follow-up survey two months after the intervention. We will merge survey data to administrative data in Fall 2023 to measure actual labor supply choices.
+<br />
+<br />
+<br />
+
+
 ### The Long Run Effects of Funding for Public Education: Evidence from Land Grants
 <!--[<span style="color:#8AA761; text-decoration: underline"> Slides here </span>](https://ursinaschaede.github.io/files/Slides_Landgrants_Schaede.pdf)-->
 <br />
@@ -29,20 +53,8 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 
-### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
 
-*joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
-(Baseline completed. AEA RCT Registry 0010399)
-<br />
-<br />
-Large and persistent earnings gaps open up between men and women after childbirth. While studies have documented that these gaps arise from drastically reduced labor supply of mothers, it is less well understood which factors women consider when making these decisions, and whether they are aware of the resulting financial implications. In this study, we randomly provide working mothers in Switzerland with information on the long-term financial consequences of a reduced workload. We highlight the impacts on lifetime earnings, pension savings, and financial well-being after potential adverse events. We find that women who receive the information treatment adjust their financial behavior and increase their workload aspirations. We confirm the persistence of effects in a follow-up survey two months after the intervention. We will merge survey data to administrative data in Fall 2023 to measure actual labor supply choices.
-<br />
-<br />
-<br />
 
-### Mothers' Labor Supply and Immigration: Evidence from the Swiss Border Opening
-
-*joint with Andreas Beerli and Andrea Hofer*
 
 
 <!-- ### [<span style="color:#16A085; text-decoration: underline"> Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
