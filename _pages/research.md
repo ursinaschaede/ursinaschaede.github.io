@@ -54,9 +54,16 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 <br />
-### Work in progress
-A Man is not a Plan: Investment in the Labor Market with Household Income Pooling (RCT, Fall 2023) *joint with Ana Costa-Ramón and Michaela Slotwinski*
-The causal impact of an anti-bullying intervention on children's development  (AEA RCT Registry 0010879)  *joint with Ana Costa-Ramón and Ana Rodríguez-González* 
+### Work in progress:
+<br />
+A Man is not a Plan: Investment in the Labor Market and Household Income Pooling (RCT, Fall 2023) 
+
+*joint with Ana Costa-Ramón and Michaela Slotwinski*
+
+<br />
+The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
+
+*joint with Ana Costa-Ramón and Ana Rodríguez-González* 
 
 
 
