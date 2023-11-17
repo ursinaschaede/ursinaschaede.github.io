@@ -33,13 +33,22 @@ How does the structure of jobs in the labor market shape mothers’ labor supply
 <br />
 
 
-### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
+<!--- ### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
 (Baseline and Follow Up I completed. AEA RCT Registry 0010399)
 <br />
 <br />
 Large and persistent earnings gaps open up between men and women after childbirth. While studies have documented that these gaps arise from drastically reduced labor supply of mothers, it is less well understood which factors women consider when making these decisions, and whether they are aware of the resulting financial implications. In this study, we randomly provide working mothers in Switzerland with information on the long-term financial consequences of a reduced workload. We highlight the impacts on lifetime earnings, pension savings, and financial well-being after potential adverse events. We find that women who receive the information treatment adjust their financial behavior and increase their workload aspirations. We confirm the persistence of effects in a follow-up survey two months after the intervention. We will merge survey data to administrative data in Fall 2023 to measure actual labor supply choices.
+<br />
+<br />
+<br />
+-->
+
+### Inattention and Labor Force Participation
+
+*joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
+(Baseline and Follow Up I completed. AEA RCT Registry 0010399)
 <br />
 <br />
 <br />
@@ -56,7 +65,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 ### Work in progress:
 <br />
-A Man is not a Plan: Investment in the Labor Market and Household Income Pooling (RCT, Fall 2023) 
+Investment in the Labor Market and Household Income Pooling (RCT) 
 
 *joint with Ana Costa-Ramón and Michaela Slotwinski*
 
