@@ -32,8 +32,7 @@ How does the structure of jobs in the labor market shape mothers’ labor supply
 <br />
 <br />
 
-
- ### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
+### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
 (Baseline and Follow Up I completed. AEA RCT Registry 0010399)
@@ -43,8 +42,6 @@ Large and persistent earnings gaps open up between men and women after childbirt
 <br />
 <br />
 <br />
-
-
 <!---### Inattention and Labor Force Participation
 
 *joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
@@ -53,8 +50,6 @@ Large and persistent earnings gaps open up between men and women after childbirt
 <br />
 <br />
 -->
-
-
 ### The Long Run Effects of Funding for Public Education: Evidence from Land Grants
 <!--[<span style="color:#8AA761; text-decoration: underline"> Slides here </span>](https://ursinaschaede.github.io/files/Slides_Landgrants_Schaede.pdf)-->
 <br />
@@ -66,11 +61,11 @@ Public education is attributed a key role in the development of modern economies
 <br />
 ### Work in progress:
 <br />
-Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
+#### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
-*joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (AEA RCT Registry submitted, In the field)
+*joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (AEA RCT Registry submitted, in the field)
 
-We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspiration. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce and measure its impact on household bargaining and career investment. 
+We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspirations. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce experience and measure its impact on household bargaining and career investment. 
 
 <br />
 The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
