@@ -13,14 +13,14 @@ redirect_from:
 ## Welcome!
 
 <br/>
-I am a Postdoctoral Fellow at the Department of Economics at MIT for 2022/23 and will subsequently join the Department of Economics at Tufts University as an Assistant Professor.
+I am a Postdoctoral Fellow at the Department of Economics at MIT for 2022/23 and will subsequently join the Department of Economics at Tufts University as an Assistant Professor in Fall 2023.
 
 As an applied microeconomist, I study labor markets with a focus on education and gender. 
 
 
 <br/>
 
-**E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina@mit.edu</span>](ursina@mit.edu)
+**E-mail:** [<span style="color:#8AA761; text-decoration: underline">ursina.schaede@tufts.edu</span>](ursina.schaede@tufts.edu)
 <br/>
 <br/>
 <br/>
