@@ -65,7 +65,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
-*joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (AEA RCT Registry submitted, in the field)
+*joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (AEA RCT Registry 0012494, in the field)
 
 We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspirations. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce experience and measure its impact on household bargaining and career investment. 
 
