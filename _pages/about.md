@@ -13,9 +13,11 @@ redirect_from:
 ## Welcome!
 
 <br/>
-I am a Postdoctoral Fellow at the Department of Economics at MIT for 2022/23 and will subsequently join the Department of Economics at Tufts University as an Assistant Professor in Fall 2023.
+I am an Assistant Professor at the Department of Economics at Tufts University. As an applied microeconomist, I study labor markets with a focus on education and gender. 
 
-As an applied microeconomist, I study labor markets with a focus on education and gender. 
+I was previously a Postdoctoral Fellow at the Department of Economics at MIT. I obtained a PhD in Economics at the University of Zurich and a Masters in Public Policy at the University of Chicago.
+
+
 
 
 <br/>
