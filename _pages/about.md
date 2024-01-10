@@ -15,7 +15,7 @@ redirect_from:
 <br/>
 I am an Assistant Professor at the Department of Economics at Tufts University. As an applied microeconomist, I study labor markets with a focus on education and gender. 
 
-I was previously a Postdoctoral Fellow at the Department of Economics at MIT. I hold a PhD in Economics from the University of Zurich and a Masters in Public Policy from the University of Chicago.
+I was previously a Postdoctoral Fellow at the Department of Economics at MIT. I hold a PhD in Economics from the University of Zurich and a Masters in Public Policy from the University of Chicago. I am a CESifo affiliate and hold research affiliations at the University of Zurich and Aalto University. 
 
 
 
