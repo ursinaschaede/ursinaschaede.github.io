@@ -23,6 +23,17 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 <br />
+### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
+
+*joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
+(Baseline and Follow Up I completed. AEA RCT Registry 0010399)
+<br />
+<br />
+While studies have documented persistently large income and participation gaps opening up between men and women after childbirth, we lack evidence on mothers' mental model that underpins these choices. Importantly, these gaps have substantial impacts on women's lifetime earnings, pensions, and financial vulnerability. In this paper, we shed light on the factors that mothers take into account when making labor supply decisions and document that they are largely inattentive to such long-term financial consequences. Through a field experiment, we show that providing mothers with objective information about the long-run costs of a reduced labor supply increases demand for financial information and future labor supply intentions. We confirm the persistence of the information update and the treatment impact on aspirations two months after the intervention. Using linked employer administrative data, we find that women who initially underestimated the long-term costs respond by increasing their labor supply one year after the intervention.
+<br />
+<br />
+<br />
+
 
 ### Mothers' Labor Force Participation and the Availability of Part-Time Jobs 
 
@@ -35,16 +46,6 @@ How does the structure of jobs in the labor market shape mothers’ labor supply
 <br />
 <br />
 
-### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
-
-*joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
-(Baseline and Follow Up I completed. AEA RCT Registry 0010399)
-<br />
-<br />
-Large and persistent earnings gaps open up between men and women after childbirth. While studies have documented that these gaps arise from drastically reduced labor supply of mothers, it is less well understood which factors women consider when making these decisions, and whether they are aware of the resulting financial implications. In this study, we randomly provide working mothers in Switzerland with information on the long-term financial consequences of a reduced workload. We highlight the impacts on lifetime earnings, pension savings, and financial well-being after potential adverse events. We find that women who receive the information treatment adjust their financial behavior and increase their workload aspirations. We confirm the persistence of effects in a follow-up survey two months after the intervention. We will merge survey data to administrative data in Winter 2024 to measure actual labor supply choices.
-<br />
-<br />
-<br />
 
 <!---### Inattention and Labor Force Participation
 
