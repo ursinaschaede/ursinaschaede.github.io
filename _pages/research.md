@@ -56,7 +56,7 @@ How does the structure of jobs in the labor market shape mothers’ labor supply
 <br />
 -->
 
-### The Long Run Effects of Funding for Public Education: Evidence from Land Grants
+### The Long Run Effects of Funding for Public Education
 <!--[<span style="color:#8AA761; text-decoration: underline"> Slides here </span>](https://ursinaschaede.github.io/files/Slides_Landgrants_Schaede.pdf)-->
 *joint with Cory Smith*
 <br />
