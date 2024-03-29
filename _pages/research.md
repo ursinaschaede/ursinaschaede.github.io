@@ -23,13 +23,13 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 <br />
-### (Not) Thinking about the Future: Inattention and Female Labor Force Participation
+### (Not) Thinking about the Future: Inattention and Maternal Labor Supply
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
 (Baseline and Follow Up I completed. AEA RCT Registry 0010399)
 <br />
 <br />
-Persistent income and participation gaps open up between men and women following childbirth. These gaps imply considerable decreases in women's lifetime earnings, pension savings, and financial security. However, our understanding of the underlying mental model guiding mothers' labor supply decisions remains limited. In this paper, we shed light on the factors that mothers take into account when making labor supply decisions and document that they are largely inattentive to such long-term financial consequences. Through a large-scale field experiment, we show that providing mothers with objective, individualized information about the long-run costs of a reduced labor supply increases demand for financial information and future labor supply intentions, in particular among women who initially underestimated the long-term costs. Leveraging linked employer administrative data one year post-intervention, we observe that this group increases their actual labor supply by 5 percent over the mean.
+The ``child penalty'' significantly reduces women’s lifetime earnings and pension savings, but it remains unclear whether these gaps are the deliberate result of forward-looking decisions. This paper provides novel evidence on the role of cognitive constraints in mothers’ labor supply decisions. In a large-scale field experiment that combines rich survey and administrative data, we provide mothers with objective, individualized information about the long-run costs of reduced labor supply. The treatment increases demand for financial information and future labor supply plans, in particular among women who underestimated the long-term costs. Leveraging linked employer administrative data one year post-intervention, we observe that these mothers increase their actual labor supply by 6 percent over the mean.
 <br />
 <br />
 <br />
