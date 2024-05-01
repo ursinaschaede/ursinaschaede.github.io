@@ -26,7 +26,7 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 ### (Not) Thinking about the Future: Inattention and Maternal Labor Supply
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
-(Baseline and Follow Up I completed. AEA RCT Registry 0010399)
+(AEA RCT Registry 0010399)
 <br />
 <br />
 The "child penalty" significantly reduces women’s lifetime earnings and pension savings, but it remains unclear whether these gaps are the deliberate result of forward-looking decisions. This paper provides novel evidence on the role of cognitive constraints in mothers’ labor supply decisions. In a large-scale field experiment that combines rich survey and administrative data, we provide mothers with objective, individualized information about the long-run costs of reduced labor supply. The treatment increases demand for financial information and future labor supply plans, in particular among women who underestimated the long-term costs. Leveraging linked employer administrative data one year post-intervention, we observe that these mothers increase their actual labor supply by 6 percent over the mean.
