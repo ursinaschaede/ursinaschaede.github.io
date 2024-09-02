@@ -33,7 +33,7 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 The "child penalty" significantly reduces women’s lifetime earnings and pension savings, but it remains unclear whether these gaps are the deliberate result of forward-looking decisions. This paper provides novel evidence on the role of information constraints in mothers’ labor supply decisions. In a large-scale field experiment that combines rich survey and administrative data, we provide mothers with objective, individualized information about the long-run costs of reduced labor supply. The treatment increases demand for financial information and future labor supply plans, in particular among women who underestimate the long-term costs. Leveraging linked employer administrative data one year post-intervention, we observe that mothers who underestimate the long-term costs increase their labor supply by 6 percent over the mean.
 <br />
 <br />
-
+<br />
 
 ### Mothers' Labor Force Participation and the Availability of Part-Time Jobs 
 
