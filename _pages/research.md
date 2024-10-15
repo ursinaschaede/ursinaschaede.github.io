@@ -81,7 +81,7 @@ We document several stylized facts about divorce perceptions and household speci
 <br />
 #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
-*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed, Follow Up in the field. AEA RCT Registry 0013529)
+*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed, Follow Up in the field. AEA RCT Registry 0013838)
 
 
 <br />
