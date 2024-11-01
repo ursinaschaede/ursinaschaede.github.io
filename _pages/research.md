@@ -12,7 +12,7 @@ author_profile: true
 *joint with Ville Mankki (CESifo Working Paper No. 9811)*
 <br />
 <br />
-*Revise & Resubmit at American Economic Review --- New version June 2024*  
+*Revise & Resubmitted at **American Economic Review**--- New version June 2024*  
 
 We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers on their pupils’ long-run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school transition more smoothly to post-compulsory education and have higher educational attainment and labor force attachment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Evidence suggests that the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.
 <br />
@@ -30,6 +30,9 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 (AEA RCT Registry 0010399)
 <br />
 <br />
+
+*Reject & Resubmit at **Quarterly Journal of Economics***  
+
 The "child penalty" significantly reduces women’s lifetime earnings and pension savings, but it remains unclear whether these gaps are the deliberate result of forward-looking decisions. This paper provides novel evidence on the role of information constraints in mothers’ labor supply decisions. We first document descriptively that mothers are largely inattentive to the long-term financial consequences of reduced hours. In a large-scale field experiment that combines rich survey and administrative data, we then provide mothers with objective, individualized information about the long-run costs of reduced labor supply. The treatment increases demand for financial information and future labor supply plans, in particular among women who underestimate the long-term costs. Leveraging linked employer administrative data one year post-intervention, we observe that mothers who underestimate the long-term costs increase their labor supply by 6 percent over the mean
 <br />
 <br />
