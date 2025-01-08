@@ -41,7 +41,6 @@ The "child penalty" significantly reduces women’s lifetime earnings and pensio
 <br />
 <br />
 
-###  
 ### [<span style="color:#8AA761; text-decoration: underline"> Mothers' Labor Force Participation and the Availability of Part-Time Jobs </span>](https://ursinaschaede.github.io/files/part_time_jobs_maternal_ls.pdf)
 
 *joint with Andrea Hofer and Andreas Beerli*
