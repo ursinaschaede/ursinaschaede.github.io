@@ -41,13 +41,14 @@ The "child penalty" significantly reduces women’s lifetime earnings and pensio
 <br />
 <br />
 
-### Mothers' Labor Force Participation and the Availability of Part-Time Jobs 
+###  
+### [<span style="color:#8AA761; text-decoration: underline"> Mothers' Labor Force Participation and the Availability of Part-Time Jobs </span>](https://ursinaschaede.github.io/files/part_time_jobs_maternal_ls.pdf)
 
 *joint with Andrea Hofer and Andreas Beerli*
-(Email for draft)
+
 <br />
 <br />
-How does the structure of jobs in the labor market shape mothers’ labor supply? In this paper, we show that mothers’ labor force participation declines following a labor market shock that reduces the availability of part-time jobs, while fathers and women without children remain unaffected. We leverage an immigration reform that sharply increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 3.2 percentage points. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. Our results highlight a competition channel that manifests itself through the number of hours that workers are willing to supply.  
+How do the characteristics of jobs in the labor market shape mothers’ participation in the workforce? In this paper, we show that mothers’ labor force participation declines following a labor market shock that reduces the availability of part-time jobs, while men and women without children remain unaffected. We examine an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 3.2 percentage points. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results are consistent with low hours constituting a job-specific amenity that may be costly for firms to provide.   
 <br />
 <br />
 <br />
@@ -90,7 +91,7 @@ We document several stylized facts about divorce perceptions and household speci
 <br />
 #### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
 
-*joint with Ana Costa-Ramón and Ana Rodríguez-González* 
+*joint with Tabea Braun, Ana Costa-Ramón and Ana Rodríguez-González* 
 
 
 
