@@ -65,7 +65,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 <br />
-<!---### Work in progress:
+<!-- ### Work in progress:
 <br />
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
