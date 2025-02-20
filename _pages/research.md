@@ -73,7 +73,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 <br />
 <br />
-### Work in progress:
+<!--- ### Work in progress:
 <br />
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
@@ -91,6 +91,7 @@ We document several stylized facts about divorce perceptions and household speci
 #### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
 
 *joint with Tabea Braun, Ana Costa-Ramón and Ana Rodríguez-González* 
+-->
 
 
 
