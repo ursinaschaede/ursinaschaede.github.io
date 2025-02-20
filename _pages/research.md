@@ -53,17 +53,9 @@ How do the characteristics of jobs in the labor market shape mothers’ particip
 <br />
 
 
-<!---### Inattention and Labor Force Participation
-
-*joint with Anne Brenøe, Ana Costa-Ramón and Michaela Slotwinski*
-(Baseline and Follow Up I completed. AEA RCT Registry 0010399)
-<br />
-<br />
-<br />
--->
 
 ### The Long Run Effects of Funding for Public Education
-<!--[<span style="color:#8AA761; text-decoration: underline"> Slides here </span>](https://ursinaschaede.github.io/files/Slides_Landgrants_Schaede.pdf)-->
+<!---[<span style="color:#8AA761; text-decoration: underline"> Slides here </span>](https://ursinaschaede.github.io/files/Slides_Landgrants_Schaede.pdf)-->
 *joint with Cory Smith*
 <br />
 <br />
@@ -98,8 +90,3 @@ We document several stylized facts about divorce perceptions and household speci
 
 
 
-
-<!-- ### [<span style="color:#16A085; text-decoration: underline"> Quota vs. Quality? Long Run Impacts of a Gender Quota (Job Market Paper)</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
-
-<!-- [normal link](https://www.google.com/)
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a> -->
