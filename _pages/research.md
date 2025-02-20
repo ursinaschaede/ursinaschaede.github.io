@@ -74,9 +74,7 @@ Public education is attributed a key role in the development of modern economies
 
 We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspirations. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce experience and measure its impact on household bargaining and career investment. 
 
-<!-- 
-<br />
-#### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
+<!-- #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
 *joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed, Follow Up in the field. AEA RCT Registry 0013838)
 
