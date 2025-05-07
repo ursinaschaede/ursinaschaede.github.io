@@ -12,7 +12,7 @@ author_profile: true
 *joint with Ville Mankki (CESifo Working Paper No. 9811)*
 <br />
 <br />
-*Revise & Resubmit (2nd round) at  **American Economic Review** *  
+*Revise & Resubmit (2nd round) at  **American Economic Review** *
 
 We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers on their pupils’ long-run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school transition more smoothly to post-compulsory education and have higher educational attainment and labor force attachment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Evidence suggests that the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.
 <br />
