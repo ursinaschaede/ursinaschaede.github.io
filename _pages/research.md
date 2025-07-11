@@ -24,7 +24,7 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 <!--### (Not) Thinking about the Future: Inattention and Maternal Labor Supply -->
-### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Inattention and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future_mls.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future_mls.pdf)
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
 (AEA RCT Registry 0010399)
