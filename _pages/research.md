@@ -24,14 +24,14 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 <!--### (Not) Thinking about the Future: Inattention and Maternal Labor Supply -->
-### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Inattention and Maternal Labor Supply</span>](https://anacostaramon.github.io/mls/Inattention_MaternalLaborSupply.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Inattention and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future_mls.pdf)
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
 (AEA RCT Registry 0010399)
 <br />
 <br />
 
-*Reject & Resubmit at **Quarterly Journal of Economics***  
+*Reject & Resubmitted at **Quarterly Journal of Economics***  
 
 The "child penalty" significantly reduces women’s lifetime earnings and pension savings, but it remains unclear whether these gaps are the deliberate result of forward-looking decisions. This paper provides novel evidence on the role of information constraints in mothers’ labor supply decisions. We first document descriptively that mothers are largely inattentive to the long-term financial consequences of reduced hours. In a large-scale field experiment that combines rich survey and administrative data, we then provide mothers with objective, individualized information about the long-run costs of reduced labor supply. The treatment increases demand for financial information and future labor supply plans, in particular among women who underestimate the long-term costs. Leveraging linked employer administrative data one year post-intervention, we observe that mothers who underestimate the long-term costs increase their labor supply by 6 percent over the mean
 <br />
