@@ -41,13 +41,13 @@ The "child penalty" significantly reduces women’s lifetime earnings and pensio
 <br />
 <br />
 
-### [<span style="color:#8AA761; text-decoration: underline"> The Market for Part-Time Work and Maternal Participation in the Workforce </span>](https://ursinaschaede.github.io/files/part_time_jobs_maternal_ls.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> The Market for Part-Time Work and Maternal Participation in the Workforce </span>](https://ursinaschaede.github.io/files/Parttime_jobs.pdf)
 
 *joint with Andrea Hofer and Andreas Beerli*
 
 <br />
 <br />
-Women are over-represented in industries that feature lower hours. This papers sheds light on the forces on both the labor demand and supply side that give rise to this sorting. We examine an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 3.2 percentage points. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results are consistent with low(er) hours constituting a job-specific amenity that is costly for firms to provide. 
+Women are over-represented in industries that feature lower hours. This papers sheds light on the forces on both the labor demand and supply side that give rise to this sorting. We examine an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 6 percent. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results are consistent with low(er) hours constituting a job-specific amenity that is costly for firms to provide. 
 <br />
 <br />
 <br />
