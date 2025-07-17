@@ -7,7 +7,7 @@ author_profile: true
 
 <br />
 <br />
-<!-- ###  [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota (Job Market Paper)](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
+<!-- ### [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
 ### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
 *joint with Ville Mankki (CESifo Working Paper No. 9811)*
 <br />
@@ -44,10 +44,9 @@ The "child penalty" significantly reduces women’s lifetime earnings and pensio
 ### [<span style="color:#8AA761; text-decoration: underline"> The Market for Part-Time Work and Maternal Participation in the Workforce </span>](https://anacostaramon.github.io/mls/FinancialAwareness_MaternalLaborSupply.pdf)
 
 *joint with Andrea Hofer and Andreas Beerli*
-
 <br />
 <br />
-Women are over-represented in industries that feature lower hours. This papers sheds light on the forces on both the labor demand and supply side that give rise to this sorting. We examine an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 6 percent. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results are consistent with low(er) hours constituting a job-specific amenity that is costly for firms to provide. 
+Women are over-represented in industries that feature lower hours. This papers sheds light on the forces of labor supply and demand that give rise to this sorting. We examine an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 6\%. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results are consistent with low(er) hours constituting a job-specific amenity that is costly for firms to provide. 
 <br />
 <br />
 <br />
@@ -56,9 +55,11 @@ Women are over-represented in industries that feature lower hours. This papers s
 
 ### The Long Run Effects of Funding for Public Education
 
-*joint with Cory Smith*
+*joint with Cory Smith*  
 <br />
-<br />
+(*E-mail for draft*) 
+<br /> 
+<br /> 
 Public education is attributed a key role in the development of modern economies. In this paper, we trace out both the immediate and long run effects of investment in human capital through funding for local public schools. We leverage a natural experiment in Illinois that endowed survey townships at the beginning of settlement with a fixed plot of land (Section 16) to finance expenditures for local schools. By exploiting the granular spatial distribution of a particularly undesirable land feature, frequent flooding, we isolate exogenous variation in township schooling endowments while keeping overall township resource endowments fixed. We first document that conditional on overall flooding propensity in a township, relatively more flooding on Section 16 has a negative impact on both township schooling expenditures and school endowments by 1858. Linking residents from full count Census data from 1860 – 1940 to their townships of residence and across Census years, we find that "school-poor" townships quickly and persistently fall behind: They experience lower population growth and the occupation transformation away from a mostly agriculturally oriented local economy proceeds more slowly. We show that these effects are partly driven by school poor townships being unable to attract settlers moving to Illinois from within the United States, and by suffering brain drain from younger generations.
 <br />
 <br />
