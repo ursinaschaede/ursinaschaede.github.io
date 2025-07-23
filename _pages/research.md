@@ -24,7 +24,8 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 <!--### (Not) Thinking about the Future: Inattention and Maternal Labor Supply -->
-### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future_mls.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply</span>](https://anacostaramon.github.io/mls/FinancialAwareness_MaternalLaborSupply.pdf)
+
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
 (AEA RCT Registry 0010399)
@@ -41,7 +42,7 @@ The "child penalty" significantly reduces women’s lifetime earnings and pensio
 <br />
 <br />
 
-### [<span style="color:#8AA761; text-decoration: underline"> The Market for Part-Time Work and Maternal Participation in the Workforce </span>](https://anacostaramon.github.io/mls/FinancialAwareness_MaternalLaborSupply.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> The Market for Part-Time Work and Maternal Participation in the Workforce </span>](https://ursinaschaede.github.io/files/Parttime_jobs.pdf)
 
 *joint with Andrea Hofer and Andreas Beerli*
 <br />
