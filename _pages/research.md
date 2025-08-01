@@ -9,7 +9,7 @@ author_profile: true
 <br />
 <!-- ### [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
 ### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
-*joint with Ville Mankki (CESifo Working Paper No. 9811)*
+*joint with Ville Mankki*
 <br />
 <br />
 *Revise & Resubmitted (2nd round) at  **American Economic Review***
