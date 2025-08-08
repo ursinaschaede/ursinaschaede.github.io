@@ -73,7 +73,7 @@ Public education is attributed a key role in the development of modern economies
 <br />
 #### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
 
-*joint with Tabea Braun, Ana Costa-Ramón and Ana Rodríguez-González* 
+*joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli* 
 <br />
 <br />
 <br />
