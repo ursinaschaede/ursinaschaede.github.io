@@ -55,14 +55,14 @@ Women are over-represented in industries that feature lower hours. This papers s
 
 
 
-### The Long Run Effects of Funding for Public Education
+### Two Centuries of Tiebout: Residential Sorting and Fiscal Policy
 
 *joint with Cory Smith*  
 <br />
 (*E-mail for draft*) 
 <br /> 
 <br /> 
-Public education is attributed a key role in the development of modern economies. In this paper, we trace out both the immediate and long run effects of investment in human capital through funding for local public schools. We leverage a natural experiment in Illinois that endowed survey townships at the beginning of settlement with a fixed plot of land (Section 16) to finance expenditures for local schools. By exploiting the granular spatial distribution of a particularly undesirable land feature, frequent flooding, we isolate exogenous variation in township schooling endowments while keeping overall township resource endowments fixed. We first document that conditional on overall flooding propensity in a township, relatively more flooding on Section 16 has a negative impact on both township schooling expenditures and school endowments by 1858. Linking residents from full count Census data from 1860 – 1940 to their townships of residence and across Census years, we find that "school-poor" townships quickly and persistently fall behind: They experience lower population growth and the occupation transformation away from a mostly agriculturally oriented local economy proceeds more slowly. We show that these effects are partly driven by school poor townships being unable to attract settlers moving to Illinois from within the United States, and by suffering brain drain from younger generations.
+Tiebout theory suggests that individuals sort into communities based on their preferences for public goods which in turn shape voting and public policy. We examine this mechanism in the context of nineteenth-century frontier settlement, using a natural experiment that introduced exogenous variation in initial levels of public school funding in Illinois townships. We exploit a federal policy that funded township schools using a fixed parcel of land within a standardized grid. Leveraging its arbitrary location, we use machine learning methods to convert its idiosyncratic geographic features into an exogenous predictor of initial school endowments. Townships with more valuable school lands attracted larger and more educated populations as early as 1860, with differences persisting for nearly two centuries. The paper will explore effects on subsequent schooling and public finance outcomes and mechanisms including substitution to private goods, urbanization, and education-driven outmigration.
 <br />
 <br />
 <br />
@@ -71,12 +71,14 @@ Public education is attributed a key role in the development of modern economies
 
 ### Work in progress:
 <br />
+
 #### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
 
 *joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli* 
 <br />
+We study the long-run effects of a large-scale school-based anti-bullying intervention. KiVa, first implemented in Finnish compulsory schools, aims to reduce bullying by shifting bystanders’ attitudes and behaviors. We link rich survey data from the original randomized controlled trial with comprehensive administrative records to track children’s educational and labor market outcomes. We find that treated students are more likely to enroll in academic high school and obtain a university degree. In early adulthood (ages 27-29), they also earn higher wages. We document reductions in bullying, particularly among boys, as well as improvements in school climate and student grades.
 <br />
-<br />
+
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (Baseline and Follow Up completed. AEA RCT Registry 0012494)
@@ -84,16 +86,17 @@ Public education is attributed a key role in the development of modern economies
 We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspirations. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce experience and measure its impact on household bargaining and career investment. 
 
 
+ #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
-<!-- #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
-
-*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed, Follow Up in the field. AEA RCT Registry 0013838)
+*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)
 
 
 <br />
-#### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
+<!--#### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
 
 *joint with Tabea Braun, Ana Costa-Ramón and Ana Rodríguez-González* 
+
+
 -->
 
 
