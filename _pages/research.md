@@ -79,27 +79,21 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 <br /> 
 We study the long-run effects of a large-scale school-based anti-bullying intervention. KiVa, first implemented in Finnish compulsory schools, aims to reduce bullying by shifting bystanders’ attitudes and behaviors. We link rich survey data from the original randomized controlled trial with comprehensive administrative records to track children’s educational and labor market outcomes. We find that treated students are more likely to enroll in academic high school and obtain a university degree. In early adulthood (ages 27-29), they also earn higher wages. We document reductions in bullying, particularly among boys, as well as improvements in school climate and student grades.
 <br />
-
+<br />
+<br />
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (Baseline and Follow Up completed. AEA RCT Registry 0012494)
 <br /> 
 <br /> 
 We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspirations. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce experience and measure its impact on household bargaining and career investment. 
-
-
- #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
+<br />
+<br />
+<br />
+#### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
 *joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)
 
-
-<br />
-<!--#### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
-
-*joint with Tabea Braun, Ana Costa-Ramón and Ana Rodríguez-González* 
-
-
--->
 
 
 
