@@ -7,8 +7,7 @@ author_profile: true
 
 <br />
 <br />
-<!--### (Not) Thinking about the Future: Inattention and Maternal Labor Supply -->
-### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply</span>](https://anacostaramon.github.io/mls/FinancialAwareness_MaternalLaborSupply.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Information and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future_mls.pdf)
 
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
