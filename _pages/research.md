@@ -15,7 +15,7 @@ author_profile: true
 <br />
 <br />
 
-*Accepted at **Quarterly Journal of Economics***  
+*Forthcoming at **Quarterly Journal of Economics***  
 
 Does information about the long-run financial costs of reduced labor supply increase mothers' working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7 percent. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.
 <br />
@@ -30,7 +30,7 @@ Does information about the long-run financial costs of reduced labor supply incr
 *joint with Ville Mankki*
 <br />
 <br />
-*Conditionally Accepted at  **American Economic Review***
+*Conditionally Accepted (subject to code review) at  **American Economic Review***
 
 We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers on their pupils’ long-run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school transition more smoothly to post-compulsory education and have higher educational attainment and labor force attachment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Evidence suggests that the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.
 <br />
@@ -76,7 +76,7 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 *joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli* 
 <br /> 
 <br /> 
-We study the long-run effects of a large-scale school-based anti-bullying intervention. KiVa, first implemented in Finnish compulsory schools, aims to reduce bullying by shifting bystanders’ attitudes and behaviors. We link rich survey data from the original randomized controlled trial with comprehensive administrative records to track children’s educational and labor market outcomes. We find that treated students are more likely to enroll in academic high school and obtain a university degree. In early adulthood (ages 27-29), they also earn higher wages. We document reductions in bullying, particularly among boys, as well as improvements in school climate and student grades.
+We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational and labor market outcomes in adulthood. Treated students experience gains in human capital attainment and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. We find that these gains accrue to all groups of pupils, irrespective of gender or social role in the classroom. Evidence suggests that reductions in bullying, particularly among boys, leading to a more positive learning environment for all groups of pupils are the main driver behind these effects.
 <br />
 <br />
 <br />
