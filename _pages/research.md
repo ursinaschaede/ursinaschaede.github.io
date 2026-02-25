@@ -52,6 +52,17 @@ Women are over-represented in industries that feature lower hours. This papers s
 <br />
 <br />
 
+#### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
+
+*joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli* 
+<br /> 
+(*E-mail for draft*)
+<br /> 
+<br />
+We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational and labor market outcomes in adulthood. Treated students experience gains in human capital attainment and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. We find that these gains accrue to all groups of pupils, irrespective of gender or social role in the classroom. Evidence suggests that reductions in bullying, particularly among boys, leading to a more positive learning environment for all groups of pupils are the main driver behind these effects.
+<br />
+<br />
+<br />
 
 
 ### Two Centuries of Tiebout: Residential Sorting and Fiscal Policy
@@ -71,15 +82,7 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 ### Work in progress:
 <br />
 
-#### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
 
-*joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli* 
-<br /> 
-<br /> 
-We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational and labor market outcomes in adulthood. Treated students experience gains in human capital attainment and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. We find that these gains accrue to all groups of pupils, irrespective of gender or social role in the classroom. Evidence suggests that reductions in bullying, particularly among boys, leading to a more positive learning environment for all groups of pupils are the main driver behind these effects.
-<br />
-<br />
-<br />
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (Baseline and Follow Up completed. AEA RCT Registry 0012494)
