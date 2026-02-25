@@ -52,11 +52,11 @@ Women are over-represented in industries that feature lower hours. This papers s
 <br />
 <br />
 
-#### The Causal Impact of an Anti-Bullying Intervention on Children's Development  (AEA RCT Registry 0010879)  
+### Non-Toxic Peers: Long-Run Returns from an Anti-Bullying Program
 
-*joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli* 
+*joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli*  
 <br /> 
-(*E-mail for draft*)
+(*E-mail for draft*. AEA RCT Registry 0010879)
 <br /> 
 <br />
 We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational and labor market outcomes in adulthood. Treated students experience gains in human capital attainment and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. We find that these gains accrue to all groups of pupils, irrespective of gender or social role in the classroom. Evidence suggests that reductions in bullying, particularly among boys, leading to a more positive learning environment for all groups of pupils are the main driver behind these effects.
