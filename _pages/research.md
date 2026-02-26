@@ -4,6 +4,9 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
+<br />
+<br />
+<br />
 ## Published/Forthcoming :
 <br />
 <br />
@@ -43,7 +46,8 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 
 ## Working Papers:
-
+<br />
+<br />
 ### [<span style="color:#8AA761; text-decoration: underline"> The Market for Part-Time Work and Maternal Participation in the Workforce </span>](https://ursinaschaede.github.io/files/Parttime_jobs.pdf)
 
 *joint with Andrea Hofer and Andreas Beerli*
@@ -82,7 +86,8 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 <br />
 
 ## Work in Progress:
-
+<br />
+<br />
 #### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (Baseline and Follow Up completed. AEA RCT Registry 0012494)
