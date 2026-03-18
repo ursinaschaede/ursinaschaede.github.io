@@ -53,7 +53,7 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 *joint with Andrea Hofer and Andreas Beerli*
 <br />
 <br />
-Women are over-represented in industries that feature lower hours. This papers sheds light on the forces of labor supply and demand that give rise to this sorting. We examine an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that the reform leads to a drop in mothers’ labor force participation by 6%. We provide evidence that mothers’ drop-out is primarily driven by changes in the structure of local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results are consistent with low(er) hours constituting a job-specific amenity that is costly for firms to provide. 
+Women are over-represented in industries that feature lower hours. This papers sheds light on the forces of labor supply and demand that give rise to this sorting with a reduced form approach. We examine the impacts of an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that mothers --- a group that primarily works part-time --- drop out of the workforce. Fathers and men and women without children remain unaffected. We provide evidence that maternal drop-out is primarily driven by changes in the structure of jobs in local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results emphasize that low(er) hours constitute a job-specific amenity that may be costly for firms to provide.  
 <br />
 <br />
 <br />
@@ -65,13 +65,29 @@ Women are over-represented in industries that feature lower hours. This papers s
 (*E-mail for draft*. AEA RCT Registry 0010879)
 <br /> 
 <br />
-We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational and labor market outcomes in adulthood. Treated students experience gains in human capital attainment and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. We find that these gains accrue to all groups of pupils, irrespective of gender or social role in the classroom. Evidence suggests that reductions in bullying, particularly among boys, leading to a more positive learning environment for all groups of pupils are the main driver behind these effects.
+We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational attainment, labor market attachment, and criminal activity in adulthood. Treated students experience gains in human capital and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. These gains accrue to all groups of pupils, irrespective of gender or social role at baseline. We show that the likely mechanism is a reduction in bullying in the classroom, particularly among boys, which leads to a more positive learning environment for all students. A reduction in crime in adulthood among boys suggests that the program successfully mitigated harmful behavior beyond the intervention window.
+<br />
+<br />
+<br />
+### Happily Under-Insured Ever After? The Role of Beliefs in Household Specialization 
+
+*joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* 
+<br /> 
+((*E-mail for draft*.  AEA RCT Registry 0012494)
+<br /> 
+<br /> 
+This paper establishes a causal link between women's beliefs around separation and labor market investment choices. We randomly manipulate beliefs around divorce in a large-scale field experiment with Swiss female teachers who are mothers and currently in a relationship. The intervention, delivered via a documentary-style video with real protagonists, aims to make both the possibility and consequences of separation relatable. The treatment increases women's insurance against the risks of separation both along financial and employment margins. Treated women are 55% more likely to sign up for an incentivized savings tool that allows users to assess compensation payments within the couple, and plan to work more in the future. One year after the intervention, treated women have reduced their level of specialization: they increase work hours by 3% as measured in administrative records of the employer. Women with low levels of insurance against separation at baseline adjust their employment level upwards by 7% relative to the control group mean.  
 <br />
 <br />
 <br />
 
 
-### Two Centuries of Tiebout: Residential Sorting and Fiscal Policy
+
+## Work in Progress:
+<br />
+<br />
+
+#### Two Centuries of Tiebout: Residential Sorting and Fiscal Policy
 
 *joint with Cory Smith*  
 <br />
@@ -85,18 +101,6 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 <br />
 <br />
 
-## Work in Progress:
-<br />
-<br />
-#### Divorce, Investment in the Labor Market and Household Income Pooling (RCT) 
-
-*joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* (Baseline and Follow Up completed. AEA RCT Registry 0012494)
-<br /> 
-<br /> 
-We document several stylized facts about divorce perceptions and household specialization: First, women are over-optimistic about their own divorce likelihood and over-estimate claims to their partner's income post-divorce, suggesting that current specialization patterns are not optimal. Second, lower own divorce expectations correlate with lower career aspirations. Third, women who have been exposed to divorce and its financial implications in their close environment are better informed and specialize less in home production. Based on these insights, we develop a testimonial intervention that emulates learning from a divorce experience and measure its impact on household bargaining and career investment. 
-<br />
-<br />
-<br />
 #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
 *joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)
