@@ -73,7 +73,8 @@ We study the long-run impacts of a randomized anti-bullying intervention, the Ki
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Johannes Stupperich* 
 <br /> 
-((*E-mail for draft*.  AEA RCT Registry 0012494)
+
+(*E-mail for draft*.  AEA RCT Registry 0012494)
 <br /> 
 <br /> 
 This paper establishes a causal link between women's beliefs around separation and labor market investment choices. We randomly manipulate beliefs around divorce in a large-scale field experiment with Swiss female teachers who are mothers and currently in a relationship. The intervention, delivered via a documentary-style video with real protagonists, aims to make both the possibility and consequences of separation relatable. The treatment increases women's insurance against the risks of separation both along financial and employment margins. Treated women are 55% more likely to sign up for an incentivized savings tool that allows users to assess compensation payments within the couple, and plan to work more in the future. One year after the intervention, treated women have reduced their level of specialization: they increase work hours by 3% as measured in administrative records of the employer. Women with low levels of insurance against separation at baseline adjust their employment level upwards by 7% relative to the control group mean.  
