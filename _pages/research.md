@@ -62,7 +62,6 @@ Women are over-represented in industries that feature shorter hours. This paper 
 
 *joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli*  
 <br /> 
-(*E-mail for draft*. AEA RCT Registry 0010879)
 <br /> 
 <br />
 We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational attainment, labor market attachment, and criminal activity in adulthood. Treated students experience gains in human capital and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. These gains accrue to all groups of pupils, irrespective of gender or social role at baseline. We show that the likely mechanism is a reduction in bullying in the classroom, particularly among boys, which leads to a more positive learning environment for all students. A reduction in crime in adulthood among boys suggests that the program successfully mitigated harmful behavior beyond the intervention window.
