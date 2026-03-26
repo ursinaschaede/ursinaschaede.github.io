@@ -53,12 +53,12 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 *joint with Andrea Hofer and Andreas Beerli*
 <br />
 <br />
-Women are over-represented in industries that feature lower hours. This papers sheds light on the forces of labor supply and demand that give rise to this sorting with a reduced form approach. We examine the impacts of an immigration reform that markedly increased the supply of full-time workers in a pre-defined set of border localities in Switzerland. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we show that mothers --- a group that primarily works part-time --- drop out of the workforce. Fathers and men and women without children remain unaffected. We provide evidence that maternal drop-out is primarily driven by changes in the structure of jobs in local labor markets with firms reducing their demand for part-time workers following the reform. The main channel of competition with immigrant labor in our setting thus manifests itself through the number of hours that workers are willing to supply. Our results emphasize that low(er) hours constitute a job-specific amenity that may be costly for firms to provide.  
+Women are over-represented in industries that feature shorter hours. This paper sheds light on the labor demand forces that give rise to this sorting. We study an immigration reform that markedly expanded the pool of commuting full-time workers in a pre-defined set of Swiss border localities. Using social security registers and business census data covering the universe of establishments in a difference-in-differences design, we find that mothers --- a group that predominantly works part-time --- exit the workforce following the reform. Fathers and prime-age men and women without children remain unaffected. We provide evidence that maternal drop-out is driven by a firm-side restructuring towards positions with longer hours: local employment shifts toward full-time positions, and job postings exhibit reduced demand for part-time work. Taken together, these findings suggest that firms may dynamically adjust non-monetary aspects of jobs in response to supply, with reduced hours constituting an amenity that on average is costly to provide.
 <br />
 <br />
 <br />
 
-### Non-Toxic Peers: Long-Run Returns from an Anti-Bullying Program
+### [<span style="color:#8AA761; text-decoration: underline"> Non-Toxic Peers: Long-Run Returns from an Anti-Bullying Program </span>](https://ursinaschaede.github.io/files/Non_Toxic_Peers.pdf)
 
 *joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli*  
 <br /> 
