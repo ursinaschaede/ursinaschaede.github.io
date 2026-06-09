@@ -28,7 +28,7 @@ Does information about the long-run financial costs of reduced labor supply incr
 <br />
 
 <!-- ### [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
-### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/quota_versus_quality.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/quota-versus-quality.pdf)
 *joint with Ville Mankki*
 <br />
 <br />
