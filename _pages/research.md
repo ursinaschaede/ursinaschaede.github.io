@@ -10,7 +10,7 @@ author_profile: true
 ## Published:
 <br />
 <br />
-### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Information and Maternal Labor Supply</span>]((https://ursinaschaede.github.io/files/think_future.pdf)
+### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Information and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future.pdf)
 
 
 *joint with Ana Costa-Ramón, Michaela Slotwinski, and Anne Brenøe*
