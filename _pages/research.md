@@ -100,9 +100,15 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 <br />
 <br />
 
-#### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
+<!-- #### Weathering the Loss of a Public Good
+*joint with Namrata Kala, Danielle Li and Han Zhou*
 
-*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)
+#### Flexible Work
+*joint with Savannah Noray*-->
+
+<!--#### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
+
+*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)-->
 
 
 
