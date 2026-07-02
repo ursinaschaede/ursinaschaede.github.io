@@ -57,13 +57,13 @@ Women are over-represented in industries that feature shorter hours. This paper 
 <br />
 <br />
 
-<!-- ### [<span style="color:#8AA761; text-decoration: underline"> Non-Toxic Peers: Long-Run Returns from an Anti-Bullying Program </span>](https://ursinaschaede.github.io/files/Non_Toxic_Peers.pdf) -->
-### Non-Toxic Peers: Long-Run Returns from an Anti-Bullying Program
+ ### [<span style="color:#8AA761; text-decoration: underline"> Non-Toxic Peers: Long-Run Returns from an Anti-Bullying Program </span>](https://ursinaschaede.github.io/files/KiVA_draft.pdf) 
+### Non-Toxic Classrooms: Long-Run Returns from an Anti-Bullying Program
 
 *joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli*  
 <br /> 
 <br /> 
-<!-- We study the long-run impacts of a randomized anti-bullying intervention, the KiVa program, in Finnish schools. We link the RCT survey data for 15,000 pupils attending grades 7-9  to comprehensive administrative records on educational attainment, labor market attachment, and criminal activity in adulthood. Treated students experience gains in human capital and labor market outcomes: they are more likely to enroll in academic high school, obtain a university degree, and earn higher wages by ages 27-29. These gains accrue to all groups of pupils, irrespective of gender or social role at baseline. We show that the likely mechanism is a reduction in bullying in the classroom, particularly among boys, which leads to a more positive learning environment for all students. A reduction in crime in adulthood among boys suggests that the program successfully mitigated harmful behavior beyond the intervention window. -->
+We study the long-run impacts of the KiVa program, a randomized anti-bullying intervention in Finnish schools, linking RCT survey data for 15,000 pupils attending grades 7-9 to comprehensive administrative records. Treated students have better long-run outcomes: they are more likely to attend academic high school and graduate from university, and they earn higher wages by ages 27--29. These gains accrue to all groups of pupils, irrespective of gender or social role as a bully, victim, or bystander. We trace these effects to a reduction in bullying in the classroom, particularly among boys, which leads to a more positive learning environment for all students. The reduction in harmful behavior persists beyond the intervention window: treated boys are significantly less likely to engage in criminal activity in adulthood.
 <br />
 <br />
 <br />
