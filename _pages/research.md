@@ -57,8 +57,7 @@ Women are over-represented in industries that feature shorter hours. This paper 
 <br />
 <br />
 
-
- ### [<span style="color:#8AA761; text-decoration: underline"> Non-Toxic Classrooms: Long-Run Returns from an Anti-Bullying Program </span>](https://ursinaschaede.github.io/files/KiVA_draft.pdf) 
+### [<span style="color:#8AA761; text-decoration: underline"> Non-Toxic Classrooms: Long-Run Returns from an Anti-Bullying Program </span>](https://ursinaschaede.github.io/files/KiVA_draft.pdf) 
 
 *joint with Tabea Braun, Ana Costa-Ramón, Ana Rodríguez-González and Christina Salmivalli*  
 <br /> 
