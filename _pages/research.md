@@ -17,13 +17,13 @@ author_profile: true
 <br />
 <br />
 
-  **The Quarterly Journal of Economics**, Volume 141, Issue 2, May 2026, Pages 1335–1382, [https://doi.org/10.1093/qje/qjag003](https://doi.org/10.1093/qje/qjag003)  
+  **The Quarterly Journal of Economics**, Volume 141, Issue 2, May 2026, Pages 1335–1382, [https://doi.org/10.1093/qje/qjag003](https://doi.org/10.1093/qje/qjag003) 
+
 Does information about the long-run financial costs of reduced labor supply increase mothers' working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7 percent. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.
 <br />
 <br />
 *Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> Tages Anzeiger </span>](https://ursinaschaede.github.io/files/artikel_tagesanzeiger.pdf),  [<span style="color:#8AA761; text-decoration: underline"> Soziale Sicherheit </span>](https://sozialesicherheit.ch/de/fur-mutter-ist-eine-scheidung-ein-riesenrisiko/)
 <br />
-*Policy Summaries:* [<span style="color:#8AA761; text-decoration: underline"> Microeconomic Insights </span>](https://microeconomicinsights.org/do-mothers-respond-to-information-about-the-long-term-consequences-of-part-time-work/), [<span style="color:#8AA761; text-decoration: underline"> VoxEU </span>](https://cepr.org/voxeu/columns/information-can-reduce-long-term-financial-consequences-part-time-work-mothers) 
 <br />
 <br />
 
@@ -99,15 +99,10 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 
 #### Weathering the Loss of a Public Good
 *joint with Namrata Kala, Danielle Li and Han Zhou*
-<br />
 
-#### Is there a Business Case for Flexible Work?
+<!--#### Flexible Work
 *joint with Savannah Noray*
 
+#### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
-
-
-
-
-
-
+*joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)-->
