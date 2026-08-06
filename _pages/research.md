@@ -23,6 +23,7 @@ Does information about the long-run financial costs of reduced labor supply incr
 <br />
 *Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> Tages Anzeiger </span>](https://ursinaschaede.github.io/files/artikel_tagesanzeiger.pdf),  [<span style="color:#8AA761; text-decoration: underline"> Soziale Sicherheit </span>](https://sozialesicherheit.ch/de/fur-mutter-ist-eine-scheidung-ein-riesenrisiko/)
 <br />
+*Policy Summaries:* [<span style="color:#8AA761; text-decoration: underline"> Microeconomic Insights </span>](https://microeconomicinsights.org/do-mothers-respond-to-information-about-the-long-term-consequences-of-part-time-work/) [<span style="color:#8AA761; text-decoration: underline"> VoxEU </span>](https://cepr.org/voxeu/columns/information-can-reduce-long-term-financial-consequences-part-time-work-mothers) 
 <br />
 <br />
 
