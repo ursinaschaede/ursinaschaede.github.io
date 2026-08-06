@@ -38,7 +38,6 @@ We evaluate equity-efficiency trade-offs from admissions quotas by examining eff
 <br />
 <br />
 *Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist: Quotas on it </span>](https://ursinaschaede.github.io/files/economist_coverage.pdf)
-<!--,  [<span style="color:#8AA761; text-decoration: underline"> Helsingin Sanomat </span>](https://www.hs.fi/tiede/art-2000010112630.html), [<span style="color:#8AA761; text-decoration: underline"> YJS Foundation </span>](https://www.yjs.fi/from-an-early-research-idea-to-the-american-economic-review/)-->
 
 [<span style="color:#8AA761; text-decoration: underline"> Distinguished CESifo Affiliate Award </span>](https://www.cesifo.org/en/research-network-area/labor-economics), Labor Economics
 <br />
@@ -100,11 +99,12 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 
 #### Weathering the Loss of a Public Good
 *joint with Namrata Kala, Danielle Li and Han Zhou*
+<br />
 
 #### Is there a Business Case for Flexible Work?
 *joint with Savannah Noray*
 
-<!-- #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment *joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)-->
+
 
 
 
