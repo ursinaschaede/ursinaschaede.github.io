@@ -17,7 +17,7 @@ author_profile: true
 <br />
 <br />
 
-  **The Quarterly Journal of Economics**, Volume 141, Issue 2, May 2026, Pages 1335–1382, [https://doi.org/10.1093/qje/qjag003](https://doi.org/10.1093/qje/qjag003) 
+  **The Quarterly Journal of Economics**, Volume 141, Issue 2, May 2026, Pages 1335–1382, [https://doi.org/10.1093/qje/qjag003](https://doi.org/10.1093/qje/qjag003)  [Online Appendix]([https://doi.org/10.1093/qje/qjag003](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/141/2/10.1093_qje_qjag003/1/qjag003_online_appendix.pdf?Expires=1789041418&Signature=WD0fNONBDIqx-zOe~34YmwzxPskA9fkKikABfmub~BhtzNjlFn8WerEC~RNqfY1eJBtJK1GjteDBZsLT6xzgvoEHb137MF028HQ4vbQsilfFrgilO~bQ2I4DTgfDXjE~dWT2ehnefS3sM3ylLfSvltzqVIw8n7gRZqdKfrkORlxXjQIEI76uqzzvVD2BWL1Ox4DHWmiHVPUYm4nTx5zgZ~Fc9LeM~byZm3FZI3RDnzng9caXQbSth8dw6yGQfoNk6MHkls1I3v~OGbnF1xGseVpVK5mAzeFcsttWjFh-2VrKeOhyNj4~DVd0f6SDR36N3rcnvxGohsCeIvTDY~5U7Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA))
 
 Does information about the long-run financial costs of reduced labor supply increase mothers' working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7 percent. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.
 <br />
@@ -100,10 +100,10 @@ Tiebout theory suggests that individuals sort into communities based on their pr
 #### Weathering the Loss of a Public Good
 *joint with Namrata Kala, Danielle Li and Han Zhou*
 
-<!--#### Flexible Work
+#### Is there a business case for flexible work?
 *joint with Savannah Noray*
 
-#### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
+<-- #### Childcare Subsidies and Maternal Labor Supply: A Field Experiment
 
 *joint with Ana Costa-Ramón and Michaela Slotwinski* (Baseline completed. AEA RCT Registry 0013838)-->
 
