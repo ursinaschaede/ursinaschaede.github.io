@@ -10,6 +10,23 @@ author_profile: true
 ## Published:
 <br />
 <br />
+<!-- ### [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
+### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/quota-versus-quality.pdf)
+*joint with Ville Mankki*
+<br />
+<br />
+**American Economic Review**, Volume 116, Issue 6, June 2026, Pages 1996–2037, [https://doi.org/10.1257/aer.20230376](https://doi.org/10.1257/aer.20230376)
+
+We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers on their pupils’ long-run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school transition more smoothly to post-compulsory education and have higher educational attainment and labor force attachment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Evidence suggests that the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.
+<br />
+<br />
+*Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist: Quotas on it </span>](https://ursinaschaede.github.io/files/economist_coverage.pdf),  [<span style="color:#8AA761; text-decoration: underline"> Helsingin Sanomat </span>](https://www.hs.fi/tiede/art-2000010112630.html), [<span style="color:#8AA761; text-decoration: underline"> YJS Foundation </span>](https://www.yjs.fi/from-an-early-research-idea-to-the-american-economic-review/)
+
+[<span style="color:#8AA761; text-decoration: underline"> Distinguished CESifo Affiliate Award </span>](https://www.cesifo.org/en/research-network-area/labor-economics), Labor Economics
+<br />
+<br />
+<br />
+
 ### [<span style="color:#8AA761; text-decoration: underline"> (Not) Thinking about the Future: Financial Information and Maternal Labor Supply</span>](https://ursinaschaede.github.io/files/think_future.pdf)
 
 
@@ -27,22 +44,7 @@ Does information about the long-run financial costs of reduced labor supply incr
 <br />
 <br />
 
-<!-- ### [Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota](https://ursinaschaede.github.io/files/JMP_Schaede.pdf) -->
-### [<span style="color:#8AA761; text-decoration: underline"> Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota</span>](https://ursinaschaede.github.io/files/quota-versus-quality.pdf)
-*joint with Ville Mankki*
-<br />
-<br />
-**American Economic Review**, Volume 116, Issue 6, June 2026, Pages 1996–2037, [https://doi.org/10.1257/aer.20230376](https://doi.org/10.1257/aer.20230376)
 
-We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. In particular, we document the impact of abolishing a 40% quota for male primary school teachers on their pupils’ long-run outcomes. The quota had advantaged academically lower-scoring male university applicants, and its removal cut the share of men among new teachers by half. We combine this reform with the timing of union-mandated teacher retirements to isolate quasi-random variation in the local share of male quota teachers. Using comprehensive register data, we find that pupils exposed to a higher share of male quota teachers during primary school transition more smoothly to post-compulsory education and have higher educational attainment and labor force attachment at age 25. Pupils of both genders benefit similarly from exposure to male quota teachers. Evidence suggests that the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.
-<br />
-<br />
-*Press coverage:*  [<span style="color:#8AA761; text-decoration: underline"> The Economist: Quotas on it </span>](https://ursinaschaede.github.io/files/economist_coverage.pdf),  [<span style="color:#8AA761; text-decoration: underline"> Helsingin Sanomat </span>](https://www.hs.fi/tiede/art-2000010112630.html), [<span style="color:#8AA761; text-decoration: underline"> YJS Foundation </span>](https://www.yjs.fi/from-an-early-research-idea-to-the-american-economic-review/)
-
-[<span style="color:#8AA761; text-decoration: underline"> Distinguished CESifo Affiliate Award </span>](https://www.cesifo.org/en/research-network-area/labor-economics), Labor Economics
-<br />
-<br />
-<br />
 
 ## Working Papers:
 <br />
